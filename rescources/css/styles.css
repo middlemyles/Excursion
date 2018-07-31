@@ -1,0 +1,30 @@
+h1,
+    h3,
+        .places {
+            color: white;
+            font-family: Verdana;
+    }
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+h3 {
+    font-weight: 300;
+    font-size: 42px;
+}
+h5 {
+    text-align: right;
+    color: gray
+}
+.places {
+    font-size: 21px;
+    color: gray;
+}
+.top {
+    font-size: 16px;
+    color: aquamarine
+}
+* {
+    text-align: center;
+    background-color: black;
+}
